@@ -7,4 +7,9 @@
     <RootNamespace>BM104_ProjeOdevi</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="5.3.3" />
+    <PackageReference Include="font-awesome" Version="4.7.0" />
+  </ItemGroup>
+
 </Project>
